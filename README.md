@@ -5,7 +5,7 @@
 
 Algunas tecnologías y lenguajes que he trabajado:
 
-⚛️ HTML & CSS | JavaScript | React JS | TypeScript | Next Js | Tailwind CSS 
+⚛️ HTML & CSS | JavaScript | React JS | TypeScript | Next Js | Tailwind CSS | .NET
 
 🔙 Node.JS | C#
 
